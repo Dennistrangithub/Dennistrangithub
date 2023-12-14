@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dennis, an <a href="https://www.linkedin.com/in/dennis-tran-2350a61b7/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Dennis, an <a href="https://www.linkedin.com/in/dennis-tran-2350a61b7/">IT Professional</a>👋</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Dennistrangithub/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Dennistrangithub/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Dennistrangithub/azure-network-protocols)
+  - [Looking at DNS Implemitation and Networking File Sharing](https://github.com/Dennistrangithub/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
